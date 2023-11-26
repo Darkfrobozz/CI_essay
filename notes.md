@@ -27,6 +27,7 @@ Testing paradigms follow a modular paradigm, this can be seen in the testing typ
 ## Automatic testing
 There is a need for controlling random generation of data. Utilizing what is not manually decided to cover a higher breadth
 than what can otherwise be achieved.
+This is also property based testing.
 
 # Work control
     There are ways to organize our work flow such that we can effectively use continuous integration.
