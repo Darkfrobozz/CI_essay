@@ -1,11 +1,38 @@
 # Introduction
 
-# The problem
+# The Tests
 
-# The first part solution - TESTS
+## Manual Tests A Review Approach
 
-# The second part solution - CONTROL
+## Automated Tests A Modular approach
 
-# A worked example
+### The Smart Input Selection
 
-# The summary
+### Unit Tests
+
+### Integration Tests
+
+### System Tests
+
+## The Manual and Automatic Synergy
+
+### Regression Tests
+
+# The Control
+
+## Version Control Systems
+
+## The Feedback Control
+
+# A worked example: Our Java Calculator
+
+## The Parser
+
+## The AST
+
+## Test Suites
+
+## Control upon Merge
+
+# Conclusion
+
