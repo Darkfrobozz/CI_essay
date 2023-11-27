@@ -16,6 +16,12 @@ https://ieeexplore.ieee.org/abstract/document/4597151#:~:text=The%20principles%2
     - Empirical assessment of testing strategies.
     - A test's most important property is the number of faults it uncovers as a function of time
 
+## Review Testing
+    - The power of mind
+    - The right environment
+    - How to foster the right environment
+
+
 ## Test types
 Testing paradigms follow a modular paradigm, this can be seen in the testing types.
     - Regression - fixing bugs, keeping existing functionality
@@ -25,9 +31,9 @@ Testing paradigms follow a modular paradigm, this can be seen in the testing typ
     - Property-based - testing a property of a testing. Using jqwik I can use it as a resource as well, (the website).
 
 ## Automatic testing
-There is a need for controlling random generation of data. Utilizing what is not manually decided to cover a higher breadth
-than what can otherwise be achieved.
-This is also property based testing.
+    There is a need for controlling random generation of data. Utilizing what is not manually decided to cover a higher breadth
+    than what can otherwise be achieved.
+    This is also property based testing.
 
 # Work control
     There are ways to organize our work flow such that we can effectively use continuous integration.
