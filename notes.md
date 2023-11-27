@@ -24,7 +24,9 @@ https://ieeexplore.ieee.org/abstract/document/4597151#:~:text=The%20principles%2
 
 ## Test types
 Testing paradigms follow a modular paradigm, this can be seen in the testing types.
-    - Regression - fixing bugs, keeping existing functionality
+    - Regression - fixing bugs, keeping existing functionality, testing updates etc etc
+        Making sure new functionality does not break old functionality
+        Regression tests as a mindset.
     - Unit tests - testing individual components
     - Integration - testing components in relation to each other
     - System Tests - testing all components in union
