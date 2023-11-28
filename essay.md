@@ -79,13 +79,11 @@ ModularizedTesting(1).png
 
 # A worked example: Our Java Calculator
 
-## The Parser
+## The CI file
 
-## The AST
+## A photo of test runs
 
-## Test Suites
-
-## Control upon Merge
+## Control upon Merge and protected branch system
 
 # Conclusion
 
