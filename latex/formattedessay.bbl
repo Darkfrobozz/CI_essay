@@ -1,0 +1,303 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{cassee_silent_2020}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=de95ed5e8bf6ee6be7de5836be82ad39}{%
+           family={Cassee},
+           familyi={C\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=af58f3b113bc6a71198bbc31e64fc895}{%
+           family={Vasilescu},
+           familyi={V\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6f29cc4ff13bd874a9373fec4d850c9a}{%
+           family={Serebrenik},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {London, ON, Canada}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{dba8992975966791715ba505d83fab1d}
+      \strng{fullhash}{dba8992975966791715ba505d83fab1d}
+      \strng{bibnamehash}{dba8992975966791715ba505d83fab1d}
+      \strng{authorbibnamehash}{dba8992975966791715ba505d83fab1d}
+      \strng{authornamehash}{dba8992975966791715ba505d83fab1d}
+      \strng{authorfullhash}{dba8992975966791715ba505d83fab1d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The adoption of Continuous Integration (CI) has been shown multiple beneﬁts for software engineering practices related to build, test and dependency management. However, the impact of CI on the social aspects of software development has been overlooked so far. Speciﬁcally, we focus on studying the impact of CI on a paradigmatic socio-technical activity within the software engineering domain, namely code reviews.}
+      \field{booktitle}{2020 {IEEE} 27th {International} {Conference} on {Software} {Analysis}, {Evolution} and {Reengineering} ({SANER})}
+      \field{isbn}{978-1-72815-143-4}
+      \field{month}{2}
+      \field{shorttitle}{The {Silent} {Helper}}
+      \field{title}{The {Silent} {Helper}: {The} {Impact} of {Continuous} {Integration} on {Code} {Reviews}}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{423\bibrangedash 434}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/SANER48275.2020.9054818
+      \endverb
+      \verb{file}
+      \verb Cassee et al. - 2020 - The Silent Helper The Impact of Continuous Integr.pdf:C\:\\Users\\darkf\\Zotero\\storage\\GFUUURVJ\\Cassee et al. - 2020 - The Silent Helper The Impact of Continuous Integr.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9054818/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9054818/
+      \endverb
+    \endentry
+    \entry{meyer_seven_2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7833218c9c8ce508ce4d4482308c9da5}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{fullhash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{bibnamehash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{authorbibnamehash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{authornamehash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{authorfullhash}{7833218c9c8ce508ce4d4482308c9da5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While everyone knows the theoretical limitations of software testing, in practice we devote considerable effort to this task and would consider it foolish or downright dangerous to skip it. Other verification techniques such as static analysis, model checking, and proofs have great potential, but none is ripe for overtaking tests as the dominant verification technique. This makes it imperative to understand the scope and limitations of testing and perform it right. The principles that follow emerged from experience studying software testing and developing automated tools such as AutoTest.}
+      \field{issn}{1558-0814}
+      \field{journaltitle}{Computer}
+      \field{month}{8}
+      \field{note}{Conference Name: Computer}
+      \field{number}{8}
+      \field{title}{Seven {Principles} of {Software} {Testing}}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{41}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{99\bibrangedash 101}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1109/MC.2008.306
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:C\:\\Users\\darkf\\Zotero\\storage\\C5IMB6R8\\4597151.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\darkf\\Zotero\\storage\\A33YWQ9Y\\Meyer - 2008 - Seven Principles of Software Testing.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/4597151#:~:text=The%20principles%20that%20follow%20emerged,0814
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/4597151#:~:text=The%20principles%20that%20follow%20emerged,0814
+      \endverb
+    \endentry
+    \entry{sadowski_modern_2018}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=3eddccf3abc0812a5fafc3519336a9e7}{%
+           family={Sadowski},
+           familyi={S\bibinitperiod},
+           given={Caitlin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8e70cafa8f89b24c1af4d12b99c99998}{%
+           family={Söderberg},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0614bbc77c003080145f63dc4e1b9081}{%
+           family={Church},
+           familyi={C\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+        {{hash=471ac920023ba945d41613a9d75fd851}{%
+           family={Sipko},
+           familyi={S\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=337ee89037ee626d42e23d8b5e0de0de}{%
+           family={Bacchelli},
+           familyi={B\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Gothenburg Sweden}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{1824ccecefbb4fb2ec6db0548a30211f}
+      \strng{fullhash}{091433996cbad8603c8e70883652f1ed}
+      \strng{bibnamehash}{1824ccecefbb4fb2ec6db0548a30211f}
+      \strng{authorbibnamehash}{1824ccecefbb4fb2ec6db0548a30211f}
+      \strng{authornamehash}{1824ccecefbb4fb2ec6db0548a30211f}
+      \strng{authorfullhash}{091433996cbad8603c8e70883652f1ed}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Employing lightweight, tool-based code review of code changes (aka modern code review) has become the norm for a wide variety of open-source and industrial systems. In this paper, we make an exploratory investigation of modern code review at Google. Google introduced code review early on and evolved it over the years; our study sheds light on why Google introduced this practice and analyzes its current status, after the process has been reﬁned through decades of code changes and millions of code reviews. By means of 12 interviews, a survey with 44 respondents, and the analysis of review logs for 9 million reviewed changes, we investigate motivations behind code review at Google, current practices, and developers’ satisfaction and challenges.}
+      \field{booktitle}{Proceedings of the 40th {International} {Conference} on {Software} {Engineering}: {Software} {Engineering} in {Practice}}
+      \field{isbn}{978-1-4503-5659-6}
+      \field{month}{5}
+      \field{shorttitle}{Modern code review}
+      \field{title}{Modern code review: a case study at google}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{181\bibrangedash 190}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3183519.3183525
+      \endverb
+      \verb{file}
+      \verb Sadowski et al. - 2018 - Modern code review a case study at google.pdf:C\:\\Users\\darkf\\Zotero\\storage\\JPQXZQLV\\Sadowski et al. - 2018 - Modern code review a case study at google.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3183519.3183525
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3183519.3183525
+      \endverb
+    \endentry
+    \entry{senthil_behind_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=45a6add4d440df2735046b1af8e4a907}{%
+           family={Senthil},
+           familyi={S\bibinitperiod},
+           given={Kishore},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{45a6add4d440df2735046b1af8e4a907}
+      \strng{fullhash}{45a6add4d440df2735046b1af8e4a907}
+      \strng{bibnamehash}{45a6add4d440df2735046b1af8e4a907}
+      \strng{authorbibnamehash}{45a6add4d440df2735046b1af8e4a907}
+      \strng{authornamehash}{45a6add4d440df2735046b1af8e4a907}
+      \strng{authorfullhash}{45a6add4d440df2735046b1af8e4a907}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Get information on - Behind the Screen: The Human Side of Software Development, follow Kovair Blog for the latest information and updates on software development and information technology.}
+      \field{journaltitle}{Kovair Blog}
+      \field{month}{8}
+      \field{shorttitle}{Behind the {Screen}}
+      \field{title}{Behind the {Screen}: {The} {Human} {Side} of {Software} {Development}}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.kovair.com/blog/behind-the-screen-the-human-side-of-software-development/
+      \endverb
+      \verb{url}
+      \verb https://www.kovair.com/blog/behind-the-screen-the-human-side-of-software-development/
+      \endverb
+    \endentry
+    \entry{noauthor_standards_nodate}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this article, we'll explore software development standards, along with best practices for software development.}
+      \field{title}{Standards in software development and 9 best practices}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\darkf\\Zotero\\storage\\UQRZNPTQ\\standards-in-software-development-and-9-best-practices.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.opslevel.com/resources/standards-in-software-development-and-9-best-practices
+      \endverb
+      \verb{url}
+      \verb https://www.opslevel.com/resources/standards-in-software-development-and-9-best-practices
+      \endverb
+    \endentry
+    \entry{noauthor_version_2018}{article}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Version Control Systems (VCS) have been used by many software developers during project developments as it helps them to manage the source codes and e…}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{month}{1}
+      \field{note}{Publisher: Elsevier}
+      \field{shorttitle}{Version {Control} {System}}
+      \field{title}{Version {Control} {System}: {A} {Review}}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{135}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{408\bibrangedash 415}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.procs.2018.08.191
+      \endverb
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\darkf\\Zotero\\storage\\B9VD39PB\\S1877050918314819.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050918314819
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050918314819
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
