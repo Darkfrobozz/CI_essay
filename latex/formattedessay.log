@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 23:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.11.24)  1 DEC 2023 12:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -320,30 +320,63 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
+) (C:\Users\darkf\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count389
+\lst@gtempboxa=\box52
+\lst@token=\toks20
+\lst@length=\count390
+\lst@currlwidth=\dimen144
+\lst@column=\count391
+\lst@pos=\count392
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count393
+\lst@lineno=\count394
+\lst@maxwidth=\dimen147
+ (C:\Users\darkf\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count395
+\lst@skipnumbers=\count396
+\lst@framebox=\box53
+) (C:\Users\darkf\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\darkf\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip72
+\f@nch@O@elh=\skip73
+\f@nch@O@erh=\skip74
+\f@nch@O@olh=\skip75
+\f@nch@O@orh=\skip76
+\f@nch@O@elf=\skip77
+\f@nch@O@erf=\skip78
+\f@nch@O@olf=\skip79
+\f@nch@O@orf=\skip80
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count389
-\@quotereset=\count390
+\@quotelevel=\count397
+\@quotereset=\count398
 (formattedessay.aux)
 \openout1 = `formattedessay.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (C:\Users\darkf\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
@@ -357,27 +390,29 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'formattedessay.bbl' found.
  (formattedessay.bbl)
-Package biblatex Info: Reference section=0 on input line 8.
-Package biblatex Info: Reference segment=0 on input line 8.
+Package biblatex Info: Reference section=0 on input line 10.
+Package biblatex Info: Reference segment=0 on input line 10.
  (C:\Users\darkf\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count391
-\scratchdimen=\dimen144
-\scratchbox=\box52
-\nofMPsegments=\count392
-\nofMParguments=\count393
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count394
-\MPscratchDim=\dimen145
-\MPnumerator=\count395
-\makeMPintoPDFobject=\count396
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count399
+\scratchdimen=\dimen148
+\scratchbox=\box54
+\nofMPsegments=\count400
+\nofMParguments=\count401
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count402
+\MPscratchDim=\dimen149
+\MPnumerator=\count403
+\makeMPintoPDFobject=\count404
+\everyMPtoPDFconversion=\toks22
 ) (C:\Users\darkf\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\darkf\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (formattedessay.toc
+))
+\c@lstlisting=\count405
+ (formattedessay.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -386,41 +421,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `formattedessay.toc'.
 
- [1
+ [1{C:/Users/darkf/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-{C:/Users/darkf/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4]
+] [2] [3] [4]
 <ModularizedTesting(1).png, id=18, 1947.275pt x 561.09625pt>
 File: ModularizedTesting(1).png Graphic file (type png)
 <use ModularizedTesting(1).png>
-Package pdftex.def Info: ModularizedTesting(1).png  used on input line 111.
+Package pdftex.def Info: ModularizedTesting(1).png  used on input line 178.
 (pdftex.def)             Requested size: 345.0pt x 99.40906pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 111--112
+Overfull \hbox (15.0pt too wide) in paragraph at lines 178--179
 [][] 
  []
 
-[5 <./ModularizedTesting(1).png>]
-Overfull \hbox (43.94542pt too wide) in paragraph at lines 172--173
-[]\OT1/cmr/m/n/10 https://github.com/Darkfrobozz/inlupp4/blob/main/.github/workflows/makefile.yml 
- []
-
-<Screenshot 2023-11-29 161454.png, id=24, 381.67593pt x 570.63188pt>
+[5 <./ModularizedTesting(1).png>] [6] [7] [8]
+<Screenshot 2023-11-29 161454.png, id=34, 381.67593pt x 570.63188pt>
 File: Screenshot 2023-11-29 161454.png Graphic file (type png)
 <use Screenshot 2023-11-29 161454.png>
-Package pdftex.def Info: Screenshot 2023-11-29 161454.png  used on input line 175.
+Package pdftex.def Info: Screenshot 2023-11-29 161454.png  used on input line 322.
 (pdftex.def)             Requested size: 345.0pt x 515.8191pt.
-[6]
-<Screenshot 2023-11-29 161625.png, id=28, 1005.00468pt x 280.79906pt>
+ [9]
+<Screenshot 2023-11-29 161625.png, id=38, 1005.00468pt x 280.79906pt>
 File: Screenshot 2023-11-29 161625.png Graphic file (type png)
 <use Screenshot 2023-11-29 161625.png>
-Package pdftex.def Info: Screenshot 2023-11-29 161625.png  used on input line 178.
+Package pdftex.def Info: Screenshot 2023-11-29 161625.png  used on input line 326.
 (pdftex.def)             Requested size: 345.0pt x 96.3916pt.
- [7 <./Screenshot 2023-11-29 161454.png>] [8 <./Screenshot 2023-11-29 161625.png>]
-Overfull \hbox (1.73186pt too wide) in paragraph at lines 196--196
+ [10 <./Screenshot 2023-11-29 161454.png>] [11 <./Screenshot 2023-11-29 161625.png>]
+Overfull \hbox (1.73186pt too wide) in paragraph at lines 344--344
 \OT1/cmr/m/sc/10 doi\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 10 . 1016 / j . procs . 2018 . 08 . 191$\OT1/cmr/m/n/10 . \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / www . sciencedirect .
  []
 
-[9] (formattedessay.aux)
+[12] (formattedessay.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -430,17 +461,17 @@ Package logreq Info: Writing requests to 'formattedessay.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10461 strings out of 475248
- 203050 string characters out of 5757812
- 1927801 words of memory out of 5000000
- 31912 multiletter control sequences out of 15000+600000
+ 12274 strings out of 475248
+ 227699 string characters out of 5757812
+ 1936801 words of memory out of 5000000
+ 33712 multiletter control sequences out of 15000+600000
  560737 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,5n,81p,929b,1786s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,12n,81p,929b,1788s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\darkf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/darkf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/darkf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/darkf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/darkf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/darkf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/darkf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on formattedessay.pdf (9 pages, 239242 bytes).
+Output written on formattedessay.pdf (12 pages, 246871 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
